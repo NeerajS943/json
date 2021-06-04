@@ -93,7 +93,8 @@
     },
     {
         "recommendations" :
-            "Construct algorithms, in english, to solve basic tasks,Use variables in code and trace different values they hold",
+            ["Construct algorithms in english to solve basic tasks",
+             "Use variables in code and trace different values they hold"],
         "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
         "id": null,
         "name": "Use function definitions to implement algorithms",
